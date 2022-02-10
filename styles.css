@@ -1,4 +1,4 @@
-img{ 
+.bolognese{ 
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -17,7 +17,7 @@ h2{
     background-color:black;
     font-size:40px;
 }
-ul{
+.ulb{
     background-color:chocolate;
     font-weight:bold;
     font-family:Arial;
@@ -36,4 +36,22 @@ p{
 ol{
     font-size:20px;
     font-family:"Times New Roman";
+    background-color:chartreuse;
 }
+
+.main{
+    color:blue;
+    background-color:yellow;
+}
+.cook{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height:70%;
+}
+a:link {
+    text-decoration: none;
+    font-weight:bold;
+    font-size:24px;
+  }
