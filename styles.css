@@ -2,6 +2,38 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 40%;
     
+}
+
+h1{
+    text-align:center;
+    color:aquamarine;
+    background-color:rgb(112, 117, 117);
+}
+h2{
+    text-align:center;
+    color:blanchedalmond;
+    background-color:black;
+    font-size:40px;
+}
+ul{
+    background-color:chocolate;
+    font-weight:bold;
+    font-family:Arial;
+}
+h3{
+    text-align:center;
+    color:white;
+    font-size:36px;
+    background-color:red;
+}
+p{
+    font-weight:bold;
+    color:white;
+    background-color:grey;
+}
+ol{
+    font-size:20px;
+    font-family:"Times New Roman";
 }
